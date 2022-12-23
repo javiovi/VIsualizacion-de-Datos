@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.chart-container {
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0 0 20px #000
+}
+
+#title {
+    padding-top: 25px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 3em;
+    margin-bottom: 0px;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 180px;										
+    padding: 15px;				
+    font: 20px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
