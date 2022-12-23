@@ -1,4 +1,4 @@
-# VIsualizacion-de-Datos
+# VIsualizacion-de-Datos - Chart-bar
 Proyectos Visualizacion de Datos Free Code Camp
 
 Objetivo: crea una app que sea funcionalmente similar a esta: https://bar-chart.freecodecamp.rocks.
